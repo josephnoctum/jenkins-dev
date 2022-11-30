@@ -20,4 +20,4 @@ What things you need to install the software and how to install them.
 
 ## Authors
 
-    * **Your Name** - *Initial work* - [YourWebsite](https://example.com/)
+    * Joseph Schooler - *Initial work* - [YourWebsite](https://example.com/)
